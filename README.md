@@ -4,6 +4,7 @@ This project is a modern scientific calculator web application featuring advance
 
 ## Features
 
+
 - 🔢 Basic arithmetic with parentheses, exponentiation, and percentage handling
 - 🧮 Scientific functions: trigonometric, inverse trigonometric, hyperbolic, logarithmic (log/ln), square and cube roots, absolute value, exponential, and factorial
 - 📐 Radian/Degree toggle that automatically adapts trigonometric calculations
